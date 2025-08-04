@@ -1,7 +1,5 @@
 <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR3eWx3ZTRodXZoeGFpN29xZGRkOHZqcGFuMXRlOHRvOTJ0bHBreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AyCMc7Yr6kSCk/giphy.gif"  />
-
 ###
-
 <p align="left">👩‍💻  About Me<br>I'm Danylo Zhyvotov <br>From: Ukraine<br><br>- 🔭 I’m working as: Parrot<br>- 📚 I'm currently learning: React<br>- ⚡ In my free time I solve Rubick`s Cube</p>
 
 ###
