@@ -2,11 +2,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  About Me</h4>
-
-###
-
-<p align="left">I'm Danylo Zhyvotov <br>From: Ukraine<br><br>- 🔭 I’m working as: Parrot<br>- 📚 I'm currently learning: React<br>- ⚡ In my free time I solve Rubick`s Cube</p>
+<p align="left">👩‍💻  About Me<br>I'm Danylo Zhyvotov <br>From: Ukraine<br><br>- 🔭 I’m working as: Parrot<br>- 📚 I'm currently learning: React<br>- ⚡ In my free time I solve Rubick`s Cube</p>
 
 ###
 
